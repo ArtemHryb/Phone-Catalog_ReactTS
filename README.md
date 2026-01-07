@@ -51,15 +51,22 @@ Follow these steps to set up the project locally:
 
 Start by cloning the project to your local machine:
 
+```Bash
 git clone https://github.com/ArtemHryb/Phone-Catalog_ReactTS
+```
+
 Navigate into the project directory:
 
+```Bash
 cd Phone-Catalog_ReactTS
+```
 
 #### 2. Install dependencies
 Install all necessary project dependencies using npm:
 
+```Bash
 npm install
+```
 
 #### 3. Running the Project
 After installation, you can launch the project in development mode:
